@@ -23,7 +23,7 @@
 
 ### 📫 Vamos nos conectar!
 
-- [Meu LinkedIn]([link-do-linkedin](https://www.linkedin.com/in/gustavo-kardauke-bugs-b3258b26b/))
+- [Meu LinkedIn](https://www.linkedin.com/in/gustavo-kardauke-bugs-b3258b26b/)
 
 ---
 
