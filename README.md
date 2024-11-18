@@ -16,7 +16,7 @@
 ### 🌟 Ferramentas que eu uso
 
 - **Front-End**: HTML, CSS, TailWindCSS, TypeScript, JavaScript, React, Vite
-- **Back-End**: C++, Python, Java, Ruby, JavaScript, TypeScript, GoLang
+- **Back-End**: Python, Java, Ruby, JavaScript, TypeScript, GoLang
 - **Versionamento**: Git e GitHub
 
 ---
