@@ -2,7 +2,7 @@
 
 ⚡ **Desenvolvedor Front-End** na **MK Solutions**, onde transformo ideias em experiências.
 
-🌱 **Aprendendo Back-End**: Atualmente envolvido com **C++**, **Python**, **GoLang** e **Java** para me tornar um desenvolvedor full-stack e entender como tudo se conecta.
+🌱 **Aprendendo Back-End**: Atualmente envolvido com **Typescript**, **Python**, **GoLang** e **Java** para me tornar um desenvolvedor full-stack e entender como tudo se conecta.
 
 ---
 
