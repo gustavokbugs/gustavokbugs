@@ -5,13 +5,13 @@ Crafting exceptional user experiences and transforming ideas into digital realit
 
 🌱 **On the Path to Full-Stack Expertise**
 Currently exploring the back-end world through:
+![Most used languages](https://img.shields.io/badge/Most%20Used%20Languages-dark?style=for-the-badge\&logo=github)
 
 * **TypeScript**
 * **Python**
 * **GoLang**
 * **Java**
 
-![Most used languages](https://img.shields.io/badge/Most%20Used%20Languages-dark?style=for-the-badge\&logo=github)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&theme=dark&hide_border=false&layout=compact)
 
 
