@@ -4,6 +4,9 @@
 
 🌱 **Learning Back-End**: Currently diving into **TypeScript**, **Python**, **GoLang**, and **Java** to become a full-stack developer and understand how everything connects.
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUÁRIO&theme=dark&hide_border=false&layout=compact)
+
+
 ---
 
 ### 🛠️ Featured Projects
