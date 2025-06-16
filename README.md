@@ -6,7 +6,6 @@ Crafting exceptional user experiences and transforming ideas into digital realit
 🌱 **On the Path to Full-Stack Expertise**
 Currently exploring the back-end world through:
 
-![Most used languages](https://img.shields.io/badge/Most%20Used%20Languages-dark?style=for-the-badge\&logo=github)
 * **TypeScript**
 * **Python**
 * **GoLang**
