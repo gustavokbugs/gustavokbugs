@@ -1,37 +1,72 @@
-# 👋 Hey, my name is Gustavo Kardauke Bugs!
+# 👋 Hey there, I’m **Gustavo Kardauke Bugs**!
 
-⚡ **Front-End Developer** @ **MK Solutions**, where I turn ideas into experiences.
+🚀 **Front-End Developer** @ **MK Solutions**
+Crafting exceptional user experiences and transforming ideas into digital realities.
 
-🌱 **Learning Back-End**: Currently diving into **TypeScript**, **Python**, **GoLang**, and **Java** to become a full-stack developer and understand how everything connects.
+🌱 **On the Path to Full-Stack Expertise**
+Currently exploring the back-end world through:
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&theme=dark&hide_border=false&layout=compact)
+* **TypeScript**
+* **Python**
+* **GoLang**
+* **Java**
 
-
----
-
-### 🛠️ Featured Projects
-
-#### **Taskify**: A task manager for developers!  
-📅 Organize your tasks, collaborate with your team, and maximize your productivity.  
-
----
-
-### 🌟 Tools I Use
-
-- **Front-End**: HTML, CSS, TailWindCSS, TypeScript, JavaScript, React, Vite  
-- **Back-End**: Python, Java, Ruby, JavaScript, TypeScript, GoLang  
-- **Version Control**: Git and GitHub  
+![Most used languages](https://img.shields.io/badge/Most%20Used%20Languages-dark?style=for-the-badge\&logo=github)
 
 ---
 
-### 📫 Let's Connect!
+## 🛠️ **Featured Project**: [Taskify](https://github.com/your-repo-link)
 
-- [My LinkedIn](https://www.linkedin.com/in/gustavo-kardauke-bugs-b3258b26b/)
+![Taskify Badge](https://img.shields.io/badge/Taskify-Task%20Manager-blue?style=for-the-badge\&logo=task)
+
+**Taskify** is a task manager tailored for developers. It helps teams:
+
+* 📅 Organize tasks effectively.
+* 🤝 Collaborate seamlessly.
+* 🔝 Boost productivity effortlessly.
 
 ---
 
-🎯 **Goal**: Build innovative solutions that help developers become more efficient and productive.
+## 🌟 **My Toolbox**
+
+### **Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-%23311C87.svg?style=for-the-badge\&logo=apollo-graphql\&logoColor=white)
+
+### **Styling**
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### **Databases**
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+### **Design Tools**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+
+### **Version Control**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-✨ I'm always open to collaborations and new ideas. Feel free to reach out!
+## 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gustavo-kardauke-bugs-b3258b26b/)
+
+---
+
+🎯 **Goal**: Build innovative solutions that empower developers to work smarter, not harder.
+
+✨ Open to collaborations and always excited to brainstorm new ideas. Reach out and let’s make something amazing together!
