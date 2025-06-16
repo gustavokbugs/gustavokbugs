@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m **Gustavo Kardauke Bugs**!
+# 👋 **Gustavo Kardauke Bugs**!
 
 🚀 **Front-End Developer** @ **MK Solutions**
 Crafting exceptional user experiences and transforming ideas into digital realities.
