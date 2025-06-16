@@ -12,6 +12,8 @@ Currently exploring the back-end world through:
 * **Java**
 
 ![Most used languages](https://img.shields.io/badge/Most%20Used%20Languages-dark?style=for-the-badge\&logo=github)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&theme=dark&hide_border=false&layout=compact)
+
 
 ---
 
@@ -36,7 +38,6 @@ Currently exploring the back-end world through:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/apollo%20graphql-%23311C87.svg?style=for-the-badge\&logo=apollo-graphql\&logoColor=white)
 
 ### **Styling**
 
