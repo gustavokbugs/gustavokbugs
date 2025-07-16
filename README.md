@@ -52,4 +52,4 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a46b0cl2zoznjw9c1ldtscr0c)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=a46b0cl2zoznjw9c1ldtscr0c&width=1000)
