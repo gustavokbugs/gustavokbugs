@@ -2,13 +2,19 @@
 
 ###
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavokbugs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=gustavokbugs&theme=tokyonight" />
-</div>
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gustavokbugs&show_icons=true&theme=tokyonight&count_private=true" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&layout=compact&theme=tokyonight" height="200"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=gustavokbugs&theme=tokyonight" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ###
 
