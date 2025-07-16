@@ -1,72 +1,50 @@
-# **Gustavo Kardauke Bugs**
+<h3 align="left">Hi 👋! My name is Gustavo Bugs and I'm a Software Developer from Santa Cruz do Sul, RS - Brazil</h3>
 
-🚀 **Front-End Developer** @ **MK Solutions**
-Crafting exceptional user experiences and transforming ideas into digital realities.
+###
 
-🌱 **On the Path to Full-Stack Expertise**
-Currently exploring the back-end world through:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavokbugs&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavokbugs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-* **TypeScript**
-* **Python**
-* **GoLang**
-* **Java**
+###
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&theme=dark&hide_border=false&layout=compact)
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1sbWV1YTl1aHJnNzl2cHRtenNiY253cGthMGI3dGd1cTR0bnJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-## 🛠️ **Featured Project**: [Taskify](https://github.com/your-repo-link)
+###
 
-![Taskify Badge](https://img.shields.io/badge/Taskify-Task%20Manager-blue?style=for-the-badge\&logo=task)
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-kardauke-bugs-b3258b26b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-**Taskify** is a task manager tailored for developers. It helps teams:
+###
 
-* 📅 Organize tasks effectively.
-* 🤝 Collaborate seamlessly.
-* 🔝 Boost productivity effortlessly.
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/gustavokbugs/gustavokbugs/output/snake.svg" alt="Snake animation" />
 
-## 🌟 **My Toolbox**
-
-### **Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### **Styling**
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge\&logo=prisma\&logoColor=white)
-
-### **Design Tools**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-
-### **Version Control**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📫 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gustavo-kardauke-bugs-b3258b26b/)
-
----
-
-🎯 **Goal**: Build innovative solutions that empower developers to work smarter, not harder.
-
-✨ Open to collaborations and always excited to brainstorm new ideas. Reach out and let’s make something amazing together!
+###
