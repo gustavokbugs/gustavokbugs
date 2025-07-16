@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavokbugs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=gustavokbugs&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=gustavokbugs&theme=tokyonight&mode=weekly" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&layout=compact&theme=tokyonight" />
 </p>
 
