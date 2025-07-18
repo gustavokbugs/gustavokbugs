@@ -4,8 +4,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavokbugs&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=gustavokbugs&locale=en&mode=weekly&theme=tokyonight&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokbugs&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavokbugs&locale=en&mode=weekly&theme=tokyonight&border_radius=5" height="150" alt="streak graph"  />
 </p>
 
 ###
